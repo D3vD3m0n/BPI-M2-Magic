@@ -18,7 +18,6 @@ sudo make install
 
 $ sh -c "$(curl -fsSL https://raw.github.com/D3vD3m0n/BPI-M2-Magic/master/tools/install.sh)"
 
-[![Solid01](./images/overview.jpg)](https://github.com/D3vD3m0n/)|
-[![Solid02](./images/pins.png)](https://github.com/D3vD3m0n/)|
+[![Solid01](./images/overview.jpg)](https://github.com/D3vD3m0n/)|[![Solid02](./images/pins.png)](https://github.com/D3vD3m0n/)|
 ______________________________________________________
 [![Solid00](https://raspberry-valley.azurewebsites.net/img/raspibanner.jpg)](https://github.com/D3vD3m0n/)| 
